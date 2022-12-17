@@ -4,7 +4,7 @@ function SixthSec() {
   return (
     <div className="secondBlock">
       <div className="firstcol">
-        <img src="./Agrigif.png" className="agrigif" />
+        <img src="./Agrigif.png" className="agrigif"alt="Los Angeles" />
       </div>
       <div className="contentSec3">
         <div>
@@ -18,7 +18,7 @@ function SixthSec() {
         <p className='button7'>click</p>
         </div>
         <div className='thirdblock2'>
-        <img src="./vector.png" className='vector'/>
+        <img src="./vector.png" className='vector'alt="Los Angeles"/>
       </div>
       </div>
      

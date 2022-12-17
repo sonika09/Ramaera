@@ -10,15 +10,18 @@
     "react-dom": "^18.2.0",
     "react-owl-carousel": "^2.3.3",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "homepage":"http://sonika09.github.io/Homepage"
+
   },
   "scripts": {
-    "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "test": "jest --watchAll --verbose --coverage --runInBand",
+    "start": "node index.js",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build"
+
     
   },
   "eslintConfig": {

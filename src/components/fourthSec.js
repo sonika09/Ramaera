@@ -4,7 +4,7 @@ function FourthSec() {
   return (
     <div className="secondBlock">
       <div className="firstcol">
-        <img src="./PackingGif.png" className="techgif" />
+        <img src="./PackingGif.png" className="techgif" alt="Los Angeles"/>
       </div>
       <div className="contentSec2">
         <div>
@@ -18,7 +18,7 @@ function FourthSec() {
         <p className='button4'>click</p>
         </div>
         <div className='fourthblock'>
-        <img src="./vector.png" className='vector'/>
+        <img src="./vector.png" className='vector'alt="Los Angeles"/>
       </div>
       </div>
      

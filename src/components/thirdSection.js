@@ -6,7 +6,7 @@ function ThirdSec() {
         
       <div className="contentSec1">
       <div className='thirdblock1'>
-        <img src="./vector.png" className='vector'/>
+        <img src="./vector.png" className='vector' alt="Los Angeles"/>
       </div>
         <div className='contentBlock'>
         <h2 className='tech2'>making</h2>

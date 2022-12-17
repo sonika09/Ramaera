@@ -16,7 +16,7 @@ function Careousel() {
     <div className="carousel-item active">
       <img src="https://images.unsplash.com/photo-1671154453575-b0cea38bb19a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="Los Angeles" className="d-block" style={{width:"100%"}}/>
       <div className="carousel-caption">
-    <img src="./mainHeading.png" className='mainHeadingImg'></img>
+    <img src="./mainHeading.png" className='mainHeadingImg' alt="Los Angeles"></img>
     <p className='description1'>
         We are aiming to be a part of the major industrialisation drive in India
         and embarking our presence in every significant industrial domain
@@ -27,7 +27,7 @@ function Careousel() {
     <div className="carousel-item">
       <img src="https://images.unsplash.com/photo-1597839219216-a773cb2473e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="Chicago" className="d-block" style={{width:"100%"}}/>
       <div className="carousel-caption">
-      <img src="./mainHeading.png" className='mainHeadingImg'></img>
+      <img src="./mainHeading.png" className='mainHeadingImg' alt="Los Angeles"></img>
     <p className='description1'>
         We are aiming to be a part of the major industrialisation drive in India
         and embarking our presence in every significant industrial domain
@@ -38,7 +38,7 @@ function Careousel() {
     <div className="carousel-item">
       <img src="https://images.unsplash.com/photo-1547127796-06bb04e4b315?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="New York" className="d-block" style={{width:"100%"}}/>
       <div className="carousel-caption">
-      <img src="./mainHeading.png" className='mainHeadingImg'></img>
+      <img src="./mainHeading.png" className='mainHeadingImg' alt="Los Angeles"></img>
     <p className='description1'>
         We are aiming to be a part of the major industrialisation drive in India
         and embarking our presence in every significant industrial domain

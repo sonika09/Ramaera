@@ -12,22 +12,22 @@ function Homepage() {
     <div className='homepage'>
         <Careousel/>
         <FirstSection/>
-        <img src="./Line16.png" className='line1'/>
-        <img src="./Line16.png" className='line'/>
+        <img src="./Line16.png" className='line1' alt="Los Angeles"/>
+        <img src="./Line16.png" className='line'alt="Los Angeles"/>
         <SecondSec/>
-        <img src="./Line16.png" className='line2'/>
-        <img src="./Line16.png" className='line'/>
+        <img src="./Line16.png" className='line2' alt="Los Angeles"/>
+        <img src="./Line16.png" className='line' alt="Los Angeles"/>
         <ThirdSec/>
-        <img src="./Line16.png" className='line'/>
-        <img src="./Line16.png" className='line2'/>
+        <img src="./Line16.png" className='line' alt="Los Angeles"/>
+        <img src="./Line16.png" className='line2' alt="Los Angeles"/>
         <FourthSec/>
-        <img src="./Line16.png" className='line'/>
+        <img src="./Line16.png" className='line' alt="Los Angeles"/>
         <FifthSec/>
-        <img src="./Line16.png" className='line3'/>
-        <img src="./Line16.png" className='line4'/>
+        <img src="./Line16.png" className='line3' alt="Los Angeles"/>
+        <img src="./Line16.png" className='line4' alt="Los Angeles"/>
         <SixthSec/>
-        <img src="./Line16.png" className='line5'/>
-        <img src="./Line16.png" className='line'/>
+        <img src="./Line16.png" className='line5' alt="Los Angeles"/>
+        <img src="./Line16.png" className='line' alt="Los Angeles"/>
         <SeventhSec/>
         </div>
   )

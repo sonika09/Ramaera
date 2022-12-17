@@ -6,7 +6,7 @@ function FifthSec() {
         
       <div className="contentSec1">
       <div className='thirdblock2'>
-        <img src="./vector.png" className='vector'/>
+        <img src="./vector.png" className='vector' alt="Los Angeles"/>
       </div>
         <div className='contentBlock'>
         <h2 className='tech5'>Offering the best with</h2>
@@ -21,7 +21,7 @@ function FifthSec() {
      
       </div>
       <div>
-        <img src="./FmcgGif.png" className='bucket'/>
+        <img src="./FmcgGif.png" className='bucket' alt="Los Angeles"/>
       </div>
      
     </div>

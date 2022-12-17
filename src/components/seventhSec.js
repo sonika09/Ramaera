@@ -6,7 +6,7 @@ function SeventhSec() {
         
       <div className="contentSec1">
       <div className='thirdblock2'>
-        <img src="./vector.png" className='vector'/>
+        <img src="./vector.png" className='vector' alt="Los Angeles"/>
       </div>
         <div className='contentBlock'>
         <h2 className='tech8'>Get all your essential in</h2>
@@ -21,7 +21,7 @@ function SeventhSec() {
      
       </div>
       <div>
-        <img src="./ecomrcegif.png" className='commercegif'/>
+        <img src="./ecomrcegif.png" className='commercegif' alt="Los Angeles"/>
       </div>
      
     </div>
